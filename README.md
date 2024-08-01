@@ -8,7 +8,7 @@ time. The currently existing methods that integrate adversarial
 generative networks (GANs) into a sequence environment do
 not pay adequate attention to the periodic connections that are
 unique to time-series data. This is a limitation of these methods.
-I introduced an architecture for the production of precise timeseries data and presented it to the group. In order to create data
+I introduced an architecture for the production of precise time-series data and presented it to the group. In order to create data
 and information that are more reflective of reality, this model
 combines the control that is afforded by supervised learning
 with the flexibility afforded by an unsupervised setting. This
